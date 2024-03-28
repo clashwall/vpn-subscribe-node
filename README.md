@@ -35,33 +35,20 @@
 
 ## 时间表
 
-6. #### 2025年 **Eternity，永恒之地**
+1. #### 2025年 **Eternity，永恒之地**
    成功完成去中性化组织构建，隐私保护成为永恒能力
-5. #### 2024年3月-2025年9月 **Star Trek，星际旅行**
+2. #### 2024年3月-2025年9月 **Star Trek，星际旅行**
    尝试分布式传输系统，让长期稳定传输成为可能
-4. #### 2023年9月-2024年3月 **Apollo，阿波罗**
+3. #### 2023年9月-2024年3月 **Apollo，阿波罗**
    创造独立的客户端，让更多人能够轻松越过审计，保护隐私，让光明重新照亮
-3. #### 2023年7月-2023年8月 **Great Voyage，伟大航程**
+4. #### 2023年7月-2023年8月 **Great Voyage，伟大航程**
    研发基于TLS的新协议，让隐私更安全
-2. #### 2023年1月-2023年6月 **Odyssey，奥迪赛**
+5. #### 2023年1月-2023年6月 **Odyssey，奥迪赛**
    技术赋能，持续优化Nice VPN的服务
-1. #### 2022年12月 **Exodus，出埃及记**
+6. #### 2022年12月 **Exodus，出埃及记**
    复活Openit并恢复节点订阅
 
    
-   ### Windows
-首推v2rayN和Clash，v2rayN支持格式众多；Clash需要[订阅转换](https://sub.tsutsu.one/)且英文界面需要汉化([Clash汉化补丁] / [教程](https://openit.daycat.space/tutorial/win-cfw-zh.html))配合下方的对应版本;SS和SSR只支持ss或ssr协议，在网上还是主流配置
->**.7z文件如何解压？**
-可以使用Bandizip[^1]进行解压；以下Windows系统软件链接全部指向便携/绿色/文件夹版
-#### [SS]｜[SSR]｜[v2rayN]｜[Clash]｜[Qv2ray]
- <!--教程｜SS｜SSR｜v2rayN｜Clash｜Qv2ray-->
-
-[ss]: https://cdn.jsdelivr.net/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip
-[ssr]: https://cdn.jsdelivr.net/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip
-[v2rayN]: https://cdn.jsdelivr.net/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip
-[clash]: https://cdn.jsdelivr.net/Fndroid/clash_for_windows_pkg/releases/download/0.20.7/Clash.for.Windows-0.20.7-win.7z
-[qv2ray]: https://cdn.jsdelivr.net/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-Windows.7z
-[Clash汉化补丁]: https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.7_CN/app.asar
 ### macOS
 首推Clash，界面美观，**只支持英文**且需要[订阅转换](https://sub.tsutsu.one/)！ClashX和Clash一样的内核，ClashX同样需要[订阅转换](https://sub.tsutsu.one/)但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
 OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
@@ -93,6 +80,22 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 ### [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
 [![点击跳转至Mac App Store][macos-black]](https://apps.apple.com/app/the-unarchiver/id425424353)
 ###### [xxx.app 已损坏，无法打开，你应该将它移到废纸篓 / 打不开 xxx，因为它来自身份不明的开发者的解决方法](https://support.apple.com/zh-cn/guide/mac-help/mh40620/mac)
+
+
+### Windows
+首推v2rayN和Clash，v2rayN支持格式众多；Clash需要[订阅转换](https://sub.tsutsu.one/)且英文界面需要汉化([Clash汉化补丁] / [教程](https://openit.daycat.space/tutorial/win-cfw-zh.html))配合下方的对应版本;SS和SSR只支持ss或ssr协议，在网上还是主流配置
+>**.7z文件如何解压？**
+可以使用Bandizip[^1]进行解压；以下Windows系统软件链接全部指向便携/绿色/文件夹版
+#### [SS]｜[SSR]｜[v2rayN]｜[Clash]｜[Qv2ray]
+ <!--教程｜SS｜SSR｜v2rayN｜Clash｜Qv2ray-->
+
+[ss]: https://cdn.jsdelivr.net/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip
+[ssr]: https://cdn.jsdelivr.net/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip
+[v2rayN]: https://cdn.jsdelivr.net/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip
+[clash]: https://cdn.jsdelivr.net/Fndroid/clash_for_windows_pkg/releases/download/0.20.7/Clash.for.Windows-0.20.7-win.7z
+[qv2ray]: https://cdn.jsdelivr.net/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-Windows.7z
+[Clash汉化补丁]: https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.7_CN/app.asar
+
 
 ### Android
 首推 Github 的 ClashForAndroid (Premium内核版本),还有魔改ss和v2rayNG其次(蓝字是软件apk安装包地址,对应蓝字下方的是Google play地址)，魔改ss可以支持更多类型的节点；kitsunebi老牌翻墙工具；Sagernet是基于Xray-core的新翻墙工具；Matsuri(中文名“茉莉”)作为SagerNet的一个分支，功能强大，很多人在用；Surfboard是一个与Surge配置兼容的代理实用工具；SS与SSR支持自己的协议
